@@ -28,7 +28,8 @@ There are two types of pre-defined user (user registry and login are not include
 
 ## Endpoints
 
-![endpoints](https://github.com/user-attachments/assets/a38e6bf7-aee1-48ad-9267-155de4606b64)
+![endpoints-new](https://github.com/user-attachments/assets/f7dc1bf3-0c97-4b85-b1de-b39613a1cb82)
+
 
 ## Running application
 
