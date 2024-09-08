@@ -30,6 +30,15 @@ There are two types of pre-defined user (user registry and login are not include
 
 ![endpoints-new](https://github.com/user-attachments/assets/f7dc1bf3-0c97-4b85-b1de-b39613a1cb82)
 
+Respectively;
+1. Create Customer
+2. List Customer Orders with given date range
+3. Create Order
+4. Cancel Order
+5. Match Order (only admin allowed)
+6. List Customer Assets
+7. Deposit TRY
+8. Withdraw TRY
 
 ## Running application
 
