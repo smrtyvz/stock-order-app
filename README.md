@@ -55,5 +55,9 @@ Please follow the steps:
 * In terminal, run command "docker build --tag=stock-order-app:latest ."
 * In terminal, run command "docker run -p8080:8080 stock-order-app:latest"
 
-In both way, you can access the API on http://localhost:8080/
+In both way, you can access the API on http://localhost:8080/api/
+
+## Testing
+You can use the postman collection stored in the repository. It holds all the endpoints served.
+
 
